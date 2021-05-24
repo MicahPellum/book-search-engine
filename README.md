@@ -13,10 +13,10 @@ Clone the repository and run npm install to install dependencies, once fully ins
 
 
 # Links
-Deployed - 
+Deployed - https://micahpellum.github.io/book-search-engine/
 
 Repo- 
-
+https://github.com/MicahPellum/book-search-engine
 
 
 # Contributors
